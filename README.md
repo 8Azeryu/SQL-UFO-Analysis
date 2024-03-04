@@ -1,4 +1,4 @@
-# SQL-preludium-octave-ufoAnalysis
+# SQL-Ufo-analysis
 ## Overview
 This repository contains a analysis of "Unidentified Flying Objects" using SQL query. Dataset created by USA government. When "truth" contains 95% of "truth" and 5% of lies, then it still is a lie.
 ## SQL query and Analysis
